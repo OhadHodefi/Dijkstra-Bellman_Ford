@@ -1,0 +1,47 @@
+﻿  main.cpp
+C:\Users\Itay Talias\Desktop\AlgoProj\AlgoProj\List.h(21,115): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\Itay Talias\Desktop\AlgoProj\AlgoProj\Graph.h(15,73): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\Itay Talias\Desktop\AlgoProj\AlgoProj\Graph.h(19,68): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\Itay Talias\Desktop\AlgoProj\AlgoProj\Graph.h(20,79): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\Itay Talias\Desktop\AlgoProj\AlgoProj\Graph.h(21,68): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\Itay Talias\Desktop\AlgoProj\AlgoProj\NeighborhoodMatrixGraph.h(16,73): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\Itay Talias\Desktop\AlgoProj\AlgoProj\NeighborhoodMatrixGraph.h(20,68): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\Itay Talias\Desktop\AlgoProj\AlgoProj\NeighborhoodMatrixGraph.h(21,79): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\Itay Talias\Desktop\AlgoProj\AlgoProj\NeighborhoodMatrixGraph.h(22,68): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\Itay Talias\Desktop\AlgoProj\AlgoProj\AdjacencyListGraph.h(15,73): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\Itay Talias\Desktop\AlgoProj\AlgoProj\AdjacencyListGraph.h(19,68): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\Itay Talias\Desktop\AlgoProj\AlgoProj\AdjacencyListGraph.h(20,79): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\Itay Talias\Desktop\AlgoProj\AlgoProj\AdjacencyListGraph.h(21,68): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\Itay Talias\Desktop\AlgoProj\AlgoProj\Heap.h(35,43): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\Itay Talias\Desktop\AlgoProj\AlgoProj\PriorityQueueWithArray.h(25,43): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\Itay Talias\Desktop\AlgoProj\AlgoProj\main.cpp(138,20): warning C4244: 'initializing': conversion from '_Rep' to 'double', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+C:\Users\Itay Talias\Desktop\AlgoProj\AlgoProj\main.cpp(171,20): warning C4244: 'initializing': conversion from '_Rep' to 'double', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+C:\Users\Itay Talias\Desktop\AlgoProj\AlgoProj\main.cpp(206,20): warning C4244: 'initializing': conversion from '_Rep' to 'double', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+C:\Users\Itay Talias\Desktop\AlgoProj\AlgoProj\main.cpp(241,20): warning C4244: 'initializing': conversion from '_Rep' to 'double', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+C:\Users\Itay Talias\Desktop\AlgoProj\AlgoProj\main.cpp(276,20): warning C4244: 'initializing': conversion from '_Rep' to 'double', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+C:\Users\Itay Talias\Desktop\AlgoProj\AlgoProj\main.cpp(313,20): warning C4244: 'initializing': conversion from '_Rep' to 'double', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+  AlgoProj.vcxproj -> C:\Users\Itay Talias\Desktop\AlgoProj\x64\Debug\AlgoProj.exe
